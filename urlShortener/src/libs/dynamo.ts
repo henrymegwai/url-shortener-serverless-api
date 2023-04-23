@@ -1,10 +1,3 @@
-// import { DynamoDBClient } from "@aws-sdk/client-dynamodb";
-// import {
-//   PutCommand,
-//   PutCommandInput,
-//   GetCommandInput,
-//   GetCommand,
-// } from "@aws-sdk/lib-dynamodb";
 
 import { DynamoDBClient } from "@aws-sdk/client-dynamodb";
 import { GetCommand, GetCommandInput } from "@aws-sdk/lib-dynamodb";
